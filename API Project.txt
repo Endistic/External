@@ -1,0 +1,5 @@
+﻿API Google lens
+https://cloud.google.com/vision/docs 
+
+API ML-Kit
+https://firebase.google.com/docs/ml-kit
